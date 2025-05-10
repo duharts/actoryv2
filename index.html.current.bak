@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -35,7 +35,9 @@
 <body>
 
   <header class="navbar">
-    
+    <div class="logo">
+      <img src="logo.png" alt="Actory Logo" style="height: 40px; vertical-align: middle;" />
+    </div>
     <nav class="menu">
       <a href="#features">Features</a>
       <a href="#pricing">Pricing</a>
@@ -50,4 +52,3 @@
 
 </body>
 </html>
-
